@@ -1,4 +1,4 @@
-# Ha-Co-project
+# Haryana-Covid-project
 My first project with python.
 Simple application for visualisation of COVID19 on the districts of haryana.
 **Note :** I have removed the essential details from the file *credentials.json* which are absolutely necessary for running the application. 
